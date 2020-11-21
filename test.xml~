@@ -1,0 +1,16 @@
+<test>
+ <isbn no="9234554384110">
+  <name>Some Name</name>
+  <author>A bloddy test</author>
+  <publisher>dick eater</publihser>
+  <time>time i died</time>
+  <date>then u die</date>
+ </isbn>
+ <isbn no="9234554384888">
+  <name>Some other name</name>
+  <author>A  test</author>
+  <publisher>dick sucker</publihser>
+  <time>time i sucked</time>
+  <date>then u die</date>
+ </isbn>
+</test>

@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Fri, 27 Jan 2012 15:32:16 +0530
+Source: widgetest
+Binary: widgetest
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: Srijan <sinjar@unknown>
+Changed-By: Srijan <sinjar@unknown>
+Description: 
+ widgetest  - <insert up to 60 chars description>
+Changes: 
+ widgetest (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ c449001277c07d41ed1c91875ea8d80883f266c7 29204 widgetest_0.0.1_armel.deb
+Checksums-Sha256: 
+ 629109e11b0f82a034dbdfe48e0fc59242bb1b6a846c1f72c0bcd5fec136d4eb 29204 widgetest_0.0.1_armel.deb
+Files: 
+ bf1a548948e56fbc49c29458d671664f 29204 user/hidden optional widgetest_0.0.1_armel.deb

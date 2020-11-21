@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Tue, 24 Jan 2012 18:29:39 +0530
+Source: widtester
+Binary: widtester
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: Srijan <sinjar@unknown>
+Changed-By: Srijan <sinjar@unknown>
+Description: 
+ widtester  - <insert up to 60 chars description>
+Changes: 
+ widtester (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 1902429ce2a658fec8c395ad340df0654b090e4e 445290 widtester_0.0.1_armel.deb
+Checksums-Sha256: 
+ f3d3fb8d68ce789e92736918ce3880a7a1d0b0fd9a8045763ee8744af0b34994 445290 widtester_0.0.1_armel.deb
+Files: 
+ e52c869d0443e6973192e2f2ef1c0963 445290 user/hidden optional widtester_0.0.1_armel.deb

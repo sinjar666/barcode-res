@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Sat, 04 Feb 2012 21:48:00 +0530
+Source: isbnkeeper
+Binary: isbnkeeper
+Architecture: armel
+Version: 1.0.0
+Distribution: unstable
+Urgency: low
+Maintainer: CodeDemons <code.demons@yahoo.com>
+Changed-By: Srijan <sinjar@unknown>
+Description: 
+ isbnkeeper - Scan ISBN codes and save book info
+Changes: 
+ isbnkeeper (1.0.0) unstable; urgency=low
+ .
+   * <Add change description here>
+Checksums-Sha1: 
+ e52e4e5310d46690d21f81caba9a125b9571c731 694994 isbnkeeper_1.0.0_armel.deb
+Checksums-Sha256: 
+ 33d7e2c7e24e17bd6efa989031c140d41892555c68db9142f174ec56c27602c3 694994 isbnkeeper_1.0.0_armel.deb
+Files: 
+ 9f03bbc04f7902cae6e2b7a469e139fe 694994 user/hidden optional isbnkeeper_1.0.0_armel.deb

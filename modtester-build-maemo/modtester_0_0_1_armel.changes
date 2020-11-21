@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Wed, 05 Oct 2011 23:39:33 +0530
+Source: modtester
+Binary: modtester
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: Srijan <srijan@unknown>
+Changed-By: Srijan <srijan@unknown>
+Description: 
+ modtester  - <insert up to 60 chars description>
+Changes: 
+ modtester (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 35b4c3c62e40b188bdbba766db4f18ef61999c9f 36308 modtester_0.0.1_armel.deb
+Checksums-Sha256: 
+ 60d6f8ebf2b08299e0fb7bbf1d46e1bcdcbe3ce63dd8d731074dfce5a94d73b9 36308 modtester_0.0.1_armel.deb
+Files: 
+ fb143b1e77e0b3b319ab05025d6209e5 36308 user/hidden optional modtester_0.0.1_armel.deb
